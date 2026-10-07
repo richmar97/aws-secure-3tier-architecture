@@ -1,4 +1,4 @@
-# aws-secure-3tier-architecture
+# Introduction
 Highly available 3-tier enterprise architecture on AWS using Terraform: ALB, Auto Scaling, RDS Multi-AZ, and automated Secrets Manager credential rotation.
 
 # Secure & Resilient 3-Tier Enterprise AWS Architecture with Terraform
